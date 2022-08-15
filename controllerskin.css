@@ -1,14 +1,14 @@
 .controller.custom{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/base.svg);
     height: 630px;
     width: 750px;
 }
 .custom.white {
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/base-white.svg);
 }
 
 .custom.disconnected {
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/trigger.svg);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/bumper.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/bumper.svg);
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/quadrant.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -107,7 +107,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/start-select.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -136,7 +136,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/abxy.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +181,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/stick.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +210,7 @@
 }
 
 .custom .face {
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svg);
+    background: url(https://gamepadviewer.com/xbox-assets/dpad.svg);
     position: absolute;
     opacity: 0;
 }
